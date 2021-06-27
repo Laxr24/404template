@@ -1,0 +1,29 @@
+body, html{
+    margin: 0; 
+    padding: 0; 
+    scrollbar-width: none;
+    background-color: rgb(31, 31, 37);
+}
+.container{
+   width: 400px;
+   margin: 0 auto; 
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white; 
+    text-align: center;
+    font-size: 4em;
+}
+p{
+    font-family: sans-serif;
+    font-weight: 200;
+    color: rgb(196, 196, 196); 
+    text-align: center;
+
+    a{
+        text-decoration: none;
+        color:rgb(255, 161, 161); 
+    }
+}
